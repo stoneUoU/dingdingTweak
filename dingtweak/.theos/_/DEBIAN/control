@@ -1,0 +1,10 @@
+Package: com.stone.dingdingtweak
+Name: dingdingtweak
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: stone
+Author: stone
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-24+debug
+Installed-Size: 180
